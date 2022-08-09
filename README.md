@@ -40,7 +40,6 @@
 - In 2019 and 2022 I led two a projects to help people to learn everything they needed to become Software Developers. In the last batch (Jun/2022) we have helped 17 people to start their careers. 
 
  
-<br>
 ### Main Stack
 <div align="center">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
