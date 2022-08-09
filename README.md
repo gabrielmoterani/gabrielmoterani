@@ -17,8 +17,6 @@
 
  I really like to code but I also enjoy being part of leadership. 
 
-
-<br>
 <br>
 
 ### About me
