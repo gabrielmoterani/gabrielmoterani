@@ -26,6 +26,8 @@
  + 🦖 My favorite programming language is Javascript.
  + 👨🏻‍🏫 I love to teach and share knowledge.
  + 🕹 I learned my first programming language to make games with RPG Maker.
+ + 🧐 I have a coding challenge newlestter. [Check out](https://challenge.house)
+ 
 
 
 <br>
