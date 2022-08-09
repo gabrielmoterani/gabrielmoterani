@@ -34,7 +34,7 @@
  - Currently, we are building [Pingback.com](https://www.pingback.com), a place where people can engage, monetize and measure their audience. We have 200k+ users and a team of 22 people. I am very proud of being Pingback CTO, to have written the first code lines, and to be part of something that can help people communicate with their audience.
  - In 2019 we built an awesome eduacational platform for the beauty market. We worked directly with [Wella](https://www.wella.com/) to build an awesome platform that makes me very proud of the team that I helped to lead. [WellaEdu](https://www.wellaedu.com.br)
 - In 2016 I've been the first developer and then lead developer of [Mercatório](https://www.mercatorio.com.br). Mercatório was a huge success in providing structured data of financial papers of Brazil. We have delivered a platform that was capable of giving Big Data to banks and investment firms so they can elaborate better market strategies.
-- In 2019 and 2022 I led two a projects to help people to learn everything they needed to become Software Developers. In the last batch (Jun/2022) we have helped 17 people to start their careers. 
+- In 2019 and 2022 I led two projects to help people to learn everything they needed to become Software Developers. In the last batch (Jun/2022) we have helped 17 people to start their careers. 
 
 <br>
 
