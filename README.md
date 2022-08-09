@@ -16,7 +16,6 @@
  making tech possible. 
 
 
-<br>
 
 ### About me
 
@@ -29,7 +28,6 @@
  
 
 
-<br>
 
 ### Projects that I am proud of
 
