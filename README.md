@@ -39,8 +39,8 @@
 - In 2016 I've been the first developer and then lead developer of [Mercatório](https://www.mercatorio.com.br). Mercatório was a huge success in providing structured data of financial papers of Brazil. We have delivered a platform that was capable of giving Big Data to banks and investment firms so they can elaborate better market strategies.
 - In 2019 and 2022 I led two a projects to help people to learn everything they needed to become Software Developers. In the last batch (Jun/2022) we have helped 17 people to start their careers. 
 
- 
-<span align="center"> <h3> Main Stack: </h3> </span>
+<br>
+
 <div align="center">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
