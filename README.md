@@ -21,11 +21,11 @@
 
 ### About me
 
- 🇧🇷 I am from Brazil.
- 🚀 I am trying to make a better world through coding.
- 🦖 My favorite programming language is Javascript.
- 👨🏻‍🏫 I love to teach and share knowledge.
- 🕹 I learned my first programming language to make games with RPG Maker.
+ + 🇧🇷 I am from Brazil.
+ + 🚀 I am trying to make a better world through coding.
+ + 🦖 My favorite programming language is Javascript.
+ + 👨🏻‍🏫 I love to teach and share knowledge.
+ + 🕹 I learned my first programming language to make games with RPG Maker.
 
 
 <br>
