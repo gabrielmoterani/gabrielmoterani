@@ -15,7 +15,6 @@
  I have been working with tech since 2015, and during this time I worked building and scaling some awesome projects. I love being part of a team and
  making tech possible. 
 
- I really like to code but I also enjoy being part of leadership. 
 
 <br>
 
@@ -26,7 +25,7 @@
  + 🦖 My favorite programming language is Javascript.
  + 👨🏻‍🏫 I love to teach and share knowledge.
  + 🕹 I learned my first programming language to make games with RPG Maker.
- + 🧐 I have a coding challenge newlestter. [Check out](https://challenge.house)
+ + 🧐 I have a coding challenge newlestter. [Check it out](https://challenge.house)
  
 
 
