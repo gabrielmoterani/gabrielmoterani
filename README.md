@@ -10,9 +10,9 @@
 
 ###  Welcome to my Github
 
- I am a full-stack software engineer currently working as CTO of pingback.com .
+ I am a full-stack software engineer currently working as Sênior Software Engineer of zenvia.com.br .
 
- I have been working with tech since 2015, and during this time I worked building and scaling some awesome projects. I love being part of a team and
+ I have been working with tech since 2014, and during this time I worked building and scaling some awesome projects. I love being part of a team and
  making tech possible. 
 
 
@@ -24,7 +24,6 @@
  + 🦖 My favorite programming language is Javascript.
  + 👨🏻‍🏫 I love to teach and share knowledge.
  + 🕹 I learned my first programming language to make games with RPG Maker.
- + 🧐 I have a coding challenge newlestter. [Check it out](https://challenge.house)
  
 
 
