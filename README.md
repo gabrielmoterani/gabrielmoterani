@@ -3,9 +3,9 @@
 
 <div>
   <a href = "mailto:contatomoterani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-amorim-moterani-682a36130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=55+31+972557644&text=Hello!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/gabrielmoterani/gabrielmoterani/blob/master/RESUME.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabemoterani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=1+416+2309864&text=HiGabe!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/gabrielmoterani/gabrielmoterani/blob/master/RESUME.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 </div>
 
 ###  Welcome to my Github
