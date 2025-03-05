@@ -31,11 +31,11 @@
 
 ### Projects that I am proud of
 
- - In 2024 I was the Staff Engineer responsible for the creation of the new micro frontend architecture of Zenvia (NASDAQ ZENV) platform. The platform was a huge success with more then 1k paying customers after it's deploy. 
- - In 2020. I co-founded [Pingback.com](https://www.pingback.com) which started as a Substack competitor and nowdays migrated to be a platform for companies to interact with their customer using blogs, newsletters, lead convertion pages and other tools.
- - In 2019 I help to built an awesome eduacational platform for the beauty market. We worked directly with [Wella](https://www.wella.com/) to build an awesome platform that makes me very proud of the team that I helped to lead. [WellaEdu](https://www.wellaedu.com.br)
-- In 2016 I've been the first developer and then lead developer of [Mercatório](https://www.mercatorio.com.br). Mercatório was a huge success in providing structured data of financial papers of Brazil. We have delivered a platform that was capable of giving Big Data to banks and investment firms so they can elaborate better market strategies.
-- In 2019 and 2022 I led two projects to help people to learn everything they needed to become Software Developers. In the last batch (Jun/2022) we have helped 17 people to start their careers. 
+- **2024**: As a Staff Engineer at [Zenvia](https://www.zenvia.com) (NASDAQ: ZENV), I led the development of a new micro-frontend architecture for the platform. The launch was a major success, attracting over 1,000 paying customers.  
+- **2020**: I co-founded [Pingback.com](https://www.pingback.com), initially a Substack competitor. Over time, it evolved into a platform that enables companies to engage with their customers through blogs, newsletters, lead conversion pages, and other tools.  
+- **2019**: I played a key role in building an educational platform for the beauty industry, working closely with [Wella](https://www.wella.com/) to develop [WellaEdu](https://www.wellaedu.com.br). This project remains one of my proudest achievements, thanks to the incredible team I helped lead.  
+- **2016**: I joined [Mercatório](https://www.mercatorio.com.br) as its first developer and later became the lead developer. Mercatório transformed access to structured financial data in Brazil, delivering a platform that empowered banks and investment firms with Big Data insights for market strategy.  
+- **2019 & 2022**: I led initiatives to help aspiring developers kickstart their careers. In our most recent cohort (June 2022), we successfully guided 17 individuals into the software development industry.  
 
 <br>
 
